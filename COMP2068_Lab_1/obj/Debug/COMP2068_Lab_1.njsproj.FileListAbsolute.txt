@@ -1,0 +1,2 @@
+D:\Georgian college material\sem 4\Javascript\COMP2068_Lab_1\COMP2068_Lab_1\obj\Debug\COMP2068_Lab_1.njsproj.CoreCompileInputs.cache
+D:\Georgian college material\sem 4\Javascript\COMP2068_Lab_1\COMP2068_Lab_1\bin\Microsoft.NodejsTools.WebRole.dll
